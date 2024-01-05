@@ -1,0 +1,14 @@
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\net8.0\FizzBuzzExercise.exe
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\net8.0\FizzBuzzExercise.deps.json
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\net8.0\FizzBuzzExercise.runtimeconfig.json
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\net8.0\FizzBuzzExercise.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\bin\Debug\net8.0\FizzBuzzExercise.pdb
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.AssemblyInfoInputs.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.AssemblyInfo.cs
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.csproj.CoreCompileInputs.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\refint\FizzBuzzExercise.dll
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.pdb
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\FizzBuzzExercise.genruntimeconfig.cache
+C:\Users\Brawl\OneDrive\Escritorio\repos\FizzBuzzExercise\FizzBuzzExercise\obj\Debug\net8.0\ref\FizzBuzzExercise.dll
